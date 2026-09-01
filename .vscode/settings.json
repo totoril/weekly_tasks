@@ -4,5 +4,11 @@
     "editor.autoClosingDelete": "never",
     "editor.autoClosingQuotes": "never",
     "editor.autoClosingOvertype": "never",
-    "editor.autoSurround": "never"
+    "editor.autoSurround": "never",
+    "editor.quickSuggestions": {
+        
+        "other": "offWhenInlineCompletions",
+        "comments": "off",
+        "strings": "off"
+    }
 }
